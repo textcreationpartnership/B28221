@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem upon the new marble statue of His present Majesty erected in the Royal Exchange by the Society of Merchants Adventurers of England together with a copy of the inscription upon the pedestall.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28221</idno><idno type="EEBO-CITATION">11245028</idno>
+  <idno type="VID">204989</idno>
+  <idno type="EEBO-PROQUEST">2240887411</idno>
+  
+            <idno type="STC">Wing P2715</idno>
+            <idno type="OCLC">11245028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1449:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem upon the new marble statue of His present Majesty erected in the Royal Exchange by the Society of Merchants Adventurers of England together with a copy of the inscription upon the pedestall.</title>
+               </titleStmt>
+               <extent>[2], 4, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term type="geographic_name">London (England) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204989:1"/>
+            <pb facs="tcp:204989:1"/>
+            <p>A POEM UPON The New Marble STATUE Of His Present MAJESTY, Erected in the Royal Exchange: By the Society of Merchants Adventurers OF ENGLAND: TOGETHER With a Copy of the Inscription UPON THE <hi>PEDESTALL.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Randal Taylor,</hi> near Stationers-Hall. 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:204989:2"/>
+            <pb n="1" facs="tcp:204989:2"/>
+            <head>Upon the New STATUE OF HIS MAJESTY Erected in the Royal Exchange.</head>
+            <lg>
+               <l>HAIL Noble Founders of this vast Design!</l>
+               <l>Hail Thou the Artist who with Skill Divine,</l>
+               <l>Couldst shapeless Rock to this Perfection bring,</l>
+               <l>Worthy such gen'rous Subjects, such a King.</l>
+               <l>See, brave Adventurers with Triumph view,</l>
+               <l>What Miracles united Zeal can do.</l>
+               <l>What wonders loyal Gratitude can raise,</l>
+               <l>That thus makes lifeless Stone speak <hi>Caesar</hi>'s Praise!</l>
+               <l>Where, with the<note n="*" place="margin">The Arms of the three Kingdoms carved upon the Sides of the <hi>Pedestal.</hi>
+                  </note> Emblems of his Pow'r, are seen,</l>
+               <l>His God-like Features and majestick Meen.</l>
+               <pb n="2" facs="tcp:204989:3"/>
+               <l>Nor do's this Piece that single Glory Claim,</l>
+               <l>It speaks with <hi>Caesar</hi>'s, Your's and <hi>Britains</hi> Fame;</l>
+               <l>That now can of a nobler Statue boast,</l>
+               <l>Than<note n="*" place="margin">The Esteem that the Ancients had for Pictures and Statues of great Masters is incredible: of which we have this famous Instance. When <hi>Demetrius</hi> had laid close Siege to a chief Town in the Isle of <hi>Rhodes;</hi> he first pre<g ref="char:EOLhyphen"/>pared to set Fire to some Buildings without <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Walls: which were slen<g ref="char:EOLhyphen"/>derly defended; whereupon the People within the Town sent to him to make an Assault upon the City with all his Force, which if he could take by Storm the Buildings without would be his own; but if he proceeded to set Fire to them, he would destroy that famous Piece, fram'd by <hi>Pro<g ref="char:EOLhyphen"/>togenes,</hi> erected there. Which when it was once lost, their Town was not worth his taking. Upon this Information, in reverence to that Work, he withdrew his Forces and spared the Town.</note>
+                  <hi>Italy</hi> preserv'd, or <hi>Greece</hi> e're Lost.</l>
+            </lg>
+            <lg>
+               <l>Methinks I see Posterity survey</l>
+               <l>(For sure such Sacred work can ne're decay)</l>
+               <l>This Marble-<hi>Caesar,</hi> with such God-like Grace;</l>
+               <l>As both Adorns and Consecrates the Place.</l>
+               <l>I hear them descant on his Awful Brow,</l>
+               <l>And Features that majestick Terrour throw,</l>
+               <l>Yet with such condescending Goodness join'd,</l>
+               <l>Displaying all the Mercies of his Mind,</l>
+               <l>That those Records they'll hold as false and vain,</l>
+               <l>That-register'd the Troubles of his Reign.</l>
+            </lg>
+            <lg>
+               <l>There was a Day (let Time for ever mourn</l>
+               <l>In Night, ere such another Day return)</l>
+               <pb n="3" facs="tcp:204989:3"/>
+               <l>That on our Monarchs sacred Form employ'd,</l>
+               <l>A Rage more dire than what his Life destroy'd:</l>
+               <l>The first assay'd a Monarch's Blood to spill,</l>
+               <l>The Second, Monarchy it self to kill!</l>
+               <l>But late repenting years his<note n="*" place="margin">The Statue of His late Majesty erected (instead of that which was demo<g ref="char:EOLhyphen"/>lished) by remarkable Accident, pointing to the Centre of the <hi>Exchange,</hi> where the new Figure of present Majesty is placed.</note> Image rais'd</l>
+               <l>More for the Zeal than Workman's Labour prais'd;</l>
+               <l>Yet by divine Instinct the Piece seems fram'd,</l>
+               <l>And for th' Event for ever shall be Fam'd,</l>
+               <l>Directly pointing with the Scepter'd Hand,</l>
+               <l>Where present <hi>Caesar</hi> do's in Triumph stand,</l>
+               <l>While the transported Figure seems to say,</l>
+               <l>
+                  <hi>Look</hi> Britains, <hi>our Establisht Heir survey;</hi>
+               </l>
+               <l>
+                  <hi>See how th' Assaults of Faction are in vain;</hi>
+               </l>
+               <l>
+                  <hi>My Race, Heavn's Choice, o'er</hi> Albion <hi>still must Reign;</hi>
+               </l>
+               <l>
+                  <hi>If from no other Source your Love will spring,</hi>
+               </l>
+               <l>
+                  <hi>Let Int'rest reconcile you to your King.</hi>
+               </l>
+               <l>
+                  <hi>Since, in all frantick Changes you have past,</hi>
+               </l>
+               <l>
+                  <hi>Heav'n first dislik'd, and you your selves at last,</hi>
+               </l>
+               <l>
+                  <hi>From thence at least let now your Duty spring;</hi>
+               </l>
+               <l>
+                  <hi>Know your own Int'rest and Obey your King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Once more, ye brave Adventurers all Hail!</l>
+               <l>So may th' Example you have set, prevail;</l>
+               <pb n="4" facs="tcp:204989:4"/>
+               <l>Till each Society like yours shall join</l>
+               <l>(While yet we have an Artist so Divine)</l>
+               <l>To re-install each<note n="*" place="margin">The Statues of <hi>English</hi> Kings destroy'd in the general Conflagration.</note> Monarch in his Shrine.</l>
+               <l>While we the rising Figures shall admire,</l>
+               <l>(As from the Worlds last Flame) more glorious for the Fire!</l>
+               <l>Till of <hi>Rome</hi>'s Capitol th' Exchange has odds,</l>
+               <l>Our <hi>British</hi> Kings out-shine the <hi>Roman</hi> Gods.</l>
+            </lg>
+            <lg>
+               <l>All must confess who this warm Piece behold</l>
+               <l>That Marble now more precious is than Gold;</l>
+               <l>As if the Carver, with<note n="†" place="margin">Reported by the Poets to have fram'd a Marble Nymph with which He fell in Love, and laying it to his Breast the Statue took Life.</note>
+                  <hi>Pigmalion</hi>'s Art,</l>
+               <l>Did, while he fram'd the Limbs, the Soul impart.</l>
+               <l>He grew ennamour'd on his own Design,</l>
+               <l>But, modest <hi>GIBBONS,</hi> all the World on Thine.</l>
+            </lg>
+            <lg>
+               <l>This Honour with just Gratitude is paid</l>
+               <l>By the first Masters of the Oceans Trade.</l>
+               <l>No less the Figure with the Place agrees,</l>
+               <l>Where else should stand the Monarch of the Seas?</l>
+               <l>Then let the World's united Treasure meet</l>
+               <l>T' enrich Their Bank, with each returning Fleet,</l>
+               <l>Who lay their Hearts and Wealth at <hi>Caesar</hi>'s Feet.</l>
+            </lg>
+         </div>
+         <div type="inscription">
+            <pb facs="tcp:204989:4"/>
+            <head>The Inscription,</head>
+            <lg>
+               <l>CAROLO II. Caesari Britannico;</l>
+               <l>Patriae Patri;</l>
+            </lg>
+            <lg>
+               <l>Regi optimo, clementissimo, augustissimo;</l>
+               <l>Generis Humani Deliciis,</l>
+               <l>Utriusque Fortunae Victori;</l>
+               <l>Pacis Europae Arbitro;</l>
+               <l>Maris Domino ac Vindici;</l>
+            </lg>
+            <lg>
+               <l>Societas Mercatorum Adventur. Angliae</l>
+               <l>Quae per CCCC jam prope</l>
+               <l>Annos regia Benignitate floret,</l>
+            </lg>
+            <lg>
+               <l>Fidei intemeratae Gratitudinis aeternae</l>
+               <l>Hoc Testimonium</l>
+               <l>Venerabunda posuit.</l>
+            </lg>
+            <p>Anno Sal. M.DCLXXXIV.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
